@@ -6,16 +6,12 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 215f920860bcc613f3fc9276b606387f7b276ba9
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-<<<<<<< HEAD
+
 
         System.out.println("on create called");
 
@@ -24,7 +20,28 @@ public class MainActivity extends AppCompatActivity {
         System.out.println(math(10,5));
 
         System.out.println(newMethod("Dusan"));
+
+        makeMusicians();
     }
+
+
+    public void makeSimpsons() {
+        Simpsons homer = new Simpsons("homer",50, "nuclear");
+        System.out.println(homer.getName());
+        homer.setName("homer simpsons");
+        System.out.println(homer.getName());
+
+    }
+
+
+    public void makeMusicians(){
+        Musicians james = new Musicians("james","guitar",50);
+        System.out.println(james.instrument);
+
+    }
+
+
+
 
     public void testMethod(){
         int x = 4 + 4 ;
@@ -58,12 +75,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-=======
-    }
-    public static void main(String[] args) {
-        System.out.println("Hello keke");
     }
 
->>>>>>> 215f920860bcc613f3fc9276b606387f7b276ba9
 }
 
