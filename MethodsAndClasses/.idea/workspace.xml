@@ -9,11 +9,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857bb632-fe00-4441-bf20-46c81c1a044c" name="Changes" comment="october16">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/Musicians.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/Simpsons.java" afterDir="false" />
+    <list default="true" id="857bb632-fe00-4441-bf20-46c81c1a044c" name="Changes" comment="Method and Classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697409496233</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Method and Classes">
+      <created>1697542959741</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697542959741</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,7 +184,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="keke" />
     <MESSAGE value="october16" />
-    <option name="LAST_COMMIT_MESSAGE" value="october16" />
+    <MESSAGE value="Method and Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method and Classes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MethodsAndClasses$MainActivity.ic" NAME="MainActivity Coverage Results" MODIFIED="1697408339426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
