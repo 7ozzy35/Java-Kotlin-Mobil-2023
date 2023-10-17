@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MethodsAndClasses.iml" filepath="$PROJECT_DIR$/.idea/modules/MethodsAndClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MethodsAndClasses.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

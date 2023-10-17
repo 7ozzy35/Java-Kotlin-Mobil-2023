@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857bb632-fe00-4441-bf20-46c81c1a044c" name="Changes" comment="october16">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/Musicians.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/Simpsons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/ozancansari/methodsandclasses/MainActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="857bb632-fe00-4441-bf20-46c81c1a044c" name="Changes" comment="october16" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
